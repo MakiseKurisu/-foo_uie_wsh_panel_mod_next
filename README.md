@@ -1,2 +1,0 @@
-# -foo_uie_wsh_panel_mod_next
-Merge marc2k3/foo_uie_wsh_panel_mod and ttsping/foo_uie_wsh_panel_mod_plus
